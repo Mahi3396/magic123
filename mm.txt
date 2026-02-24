@@ -1,0 +1,9 @@
+git clone https://github.com/Mahi3396/magic123.git
+cd magic123
+git status   
+git add mm.txt
+git status
+git commit -m
+git push
+git push origin main
+git init
